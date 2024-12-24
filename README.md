@@ -1,5 +1,5 @@
 # Awesome Web Scraping by Bright Data
-[![Promo](https://github.com/bright-cn/Amazon-scraper/blob/main/images/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://bright.cn/?promo=github15) 
+[![Promo](https://github.com/bright-cn/Awesome-Web-Scraping/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://bright.cn/?promo=github15) 
 
 ***限时促销：Bright Data 将匹配您的首次存款，最高达 $500！***
 
