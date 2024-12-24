@@ -163,14 +163,14 @@
 
 #### 代理集成
 
-- [Bright Data 的代理服务](https://brightdata.com/proxy-types)：提供超过 7200 万个 IP 的代理网络，包括高级住宅、数据中心、移动和 ISP 代理。支持按州、国家、邮政编码和 ASN 级别的定位，覆盖 195 个国家。适用于任何 HTTP 客户端或抓取库 [**Bright Data 的解决方案**]。
+- [Bright Data 的代理服务](https://bright.cn/proxy-types)：提供超过 7200 万个 IP 的代理网络，包括高级住宅、数据中心、移动和 ISP 代理。支持按州、国家、邮政编码和 ASN 级别的定位，覆盖 195 个国家。适用于任何 HTTP 客户端或抓取库 [**Bright Data 的解决方案**]。
 - [getProxy](https://github.com/selesnow/getProxy)：一个 R 库，用于在 R 中获取免费的代理 IP 和端口。
 - [ip2proxy](https://cran.r-project.org/web/packages/ip2proxy/index.html)：一个 R 库，帮助用户识别被用作 VPN 匿名器、开放代理、网络代理和 Tor 出口的 IP 地址。
 - [r.proxy](https://github.com/xiayh17/r.proxy)：一个库，用于在 R 控制台中设置代理。
 
 #### 验证码破解
 
-- [CAPTCHA Solver](https://brightdata.com/products/web-unlocker/captcha-solver)：一个快速自动化的验证码破解工具，可以解决 reCAPTCHA、hCaptcha、px_captcha、SimpleCaptcha、GeeTest CAPTCHA 等挑战 [**Bright Data 的解决方案**]。
+- [CAPTCHA Solver](https://bright.cn/products/web-unlocker/captcha-solver)：一个快速自动化的验证码破解工具，可以解决 reCAPTCHA、hCaptcha、px_captcha、SimpleCaptcha、GeeTest CAPTCHA 等挑战 [**Bright Data 的解决方案**]。
 
 #### 用户代理伪装
 
@@ -288,12 +288,12 @@
 
 - rvest or Rcrawler
 
-### Dynamic Web Pages
+### 动态网页
 
-#### All-In-One Browser Automation Framework
+#### 一体化浏览器自动化框架
 
 - RSelenium
 
-## Guides and Tutorials
+## 指南和教程
 
-- [A Hands-On Guide to Web Scraping in R](https://brightdata.com/blog/how-tos/web-scraping-with-r)
+- [R语言网页抓取实践指南](https://bright.cn/blog/how-tos/web-scraping-with-r)
