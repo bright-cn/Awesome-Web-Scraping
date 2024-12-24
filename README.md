@@ -1,4 +1,5 @@
-# Awesome Web Scraping by Bright Data
+# 由 Bright Data 精选的优秀网络爬取资源
+
 [![Promo](https://github.com/bright-cn/Awesome-Web-Scraping/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://bright.cn/?promo=github15) 
 
 ***限时促销：Bright Data 将匹配您的首次存款，最高达 $500！***
