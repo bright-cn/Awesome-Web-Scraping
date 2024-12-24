@@ -66,4 +66,4 @@ Bright Data 的 Awesome Web Scraping 是一组资源、工具和指南，用于�
 * [Python 和 ChatGPT 数据分析的终极指南](https://www.youtube.com/embed/eISqvRLfzTg)
 * [使用 Next.js 和 Bright Data 构建全栈 SEO 排名追踪应用](https://www.youtube.com/embed/3oy8Mqc8zec)
 
-**更多网页抓取视频，请访问我们的 [Web Data Masterclass](https://bright.cn/web-data-masterclass)**
+**更多网页抓取视频，请访问我们的 [Web Data Masterclass](https://brightdata.com/web-data-masterclass)**
