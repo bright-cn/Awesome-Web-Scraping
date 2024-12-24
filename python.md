@@ -104,7 +104,7 @@
 
 #### HTML/XML 解析器
 
-- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/): 一个用于 HTML 页面数据提取的库 [**[Beautiful Soup 代理集成](https://brightdata.com/integration/beautifulsoup)**]
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/): 一个用于 HTML 页面数据提取的库 [**[Beautiful Soup 代理集成](https://bright.cn/integration/beautifulsoup)**]
 - [lxml](https://github.com/lxml/lxml/): 功能丰富且易于使用的 XML 和 HTML 处理库
 - [pyquery](https://github.com/gawel/pyquery): 一个类似 jQuery 的 Python 库，用于对 XML 和 HTML 文档进行查询
 - [html5lib](https://github.com/html5lib/html5lib-python): 一个符合标准的库，用于解析和序列化 HTML 文档和片段
@@ -188,7 +188,7 @@
 
 #### 框架
 
-- [scrapy](https://github.com/scrapy/scrapy): 一个快速且高级的 Python 爬虫和抓取框架 [**[Scrapy 代理集成](https://brightdata.com/integration/scrapy)**]
+- [scrapy](https://github.com/scrapy/scrapy): 一个快速且高级的 Python 爬虫和抓取框架 [**[Scrapy 代理集成](https://bright.cn/integration/scrapy)**]
 - [autoscraper](https://github.com/alirezamika/autoscraper): 一个智能、自动、快速且轻量级的 Python 爬虫工具
 - [requests-html](https://github.com/psf/requests-html): 一个使 HTML 解析（例如网络抓取）尽可能简单直观的库
 - [ruia](https://github.com/howie6879/ruia): 一个基于 asyncio 的异步 Python 3.6+ 爬虫微框架
@@ -215,11 +215,11 @@
 
 #### 代理集成
 
-- [Bright Data's proxy services](https://brightdata.com/proxy-types): 提供超过 7200 万个 IP 的代理网络，包含住宅、数据中心、移动和 ISP 代理，支持按国家、州、省、市、ZIP 和 ASN 级别目标定位，覆盖 195 个国家。兼容任何 HTTP 客户端或抓取库 [**Bright Data 的解决方案**]
+- [Bright Data's proxy services](https://bright.cn/proxy-types): 提供超过 7200 万个 IP 的代理网络，包含住宅、数据中心、移动和 ISP 代理，支持按国家、州、省、市、ZIP 和 ASN 级别目标定位，覆盖 195 个国家。兼容任何 HTTP 客户端或抓取库 [**Bright Data 的解决方案**]
 
 #### CAPTCHA 解决
 
-- [CAPTCHA Solver](https://brightdata.com/products/web-unlocker/captcha-solver): 一种快速、自动化的 CAPTCHA 解决工具，可处理 reCAPTCHA、hCaptcha、px_captcha、SimpleCaptcha、GeeTest CAPTCHA 等挑战 [**Bright Data 的解决方案**]
+- [CAPTCHA Solver](https://bright.cn/products/web-unlocker/captcha-solver): 一种快速、自动化的 CAPTCHA 解决工具，可处理 reCAPTCHA、hCaptcha、px_captcha、SimpleCaptcha、GeeTest CAPTCHA 等挑战 [**Bright Data 的解决方案**]
 - [captcha_solver](https://github.com/lorien/captcha_solver): 一个通用的 Python CAPTCHA 解决服务 API
 - [python-anticaptcha](https://github.com/ad-m/python-anticaptcha): 支持 Anticaptcha.com 的客户端库，用于解决 CAPTCHA
 - [unicaps](https://github.com/sergey-scat/unicaps): 一个统一的 Python CAPTCHA 解决服务 API
@@ -360,64 +360,64 @@
 
 ### 通用指南
 
-- [Python 网页抓取 – 2024 完整指南](https://brightdata.com/blog/how-tos/web-scraping-with-python)
-- [使用 Python 抓取动态网站 - 2024 指南](https://brightdata.com/blog/how-tos/scrape-dynamic-websites-python)
-- [Python 网页爬取 - 2024 指南](https://brightdata.com/blog/how-tos/web-crawling-with-python)
-- [掌握 Python HTTP 请求：2024 高级指南](https://brightdata.com/blog/web-data/python-requests-guide)
-- [BeautifulSoup 网页抓取：分步教程](https://brightdata.com/blog/how-tos/beautiful-soup-web-scraping)
-- [使用 Selenium 抓取网页指南（2024）](https://brightdata.com/blog/how-tos/using-selenium-for-web-scraping)
-- [如何使用 lxml 抓取网页](https://brightdata.com/blog/web-data/lxml-web-scraping)
-- [Python 与 cURL 集成指南](https://brightdata.com/blog/how-tos/curl-with-python)
-- [使用 Python 和 Wget 下载网页](https://brightdata.com/blog/how-tos/wget-with-python)
-- [用 Python 抓取网站图片 - 2024 指南](https://brightdata.com/blog/how-tos/scrape-images-from-websites)
+- [Python 网页抓取 – 2024 完整指南](https://bright.cn/blog/how-tos/web-scraping-with-python)
+- [使用 Python 抓取动态网站 - 2024 指南](https://bright.cn/blog/how-tos/scrape-dynamic-websites-python)
+- [Python 网页爬取 - 2024 指南](https://bright.cn/blog/how-tos/web-crawling-with-python)
+- [掌握 Python HTTP 请求：2024 高级指南](https://bright.cn/blog/web-data/python-requests-guide)
+- [BeautifulSoup 网页抓取：分步教程](https://bright.cn/blog/how-tos/beautiful-soup-web-scraping)
+- [使用 Selenium 抓取网页指南（2024）](https://bright.cn/blog/how-tos/using-selenium-for-web-scraping)
+- [如何使用 lxml 抓取网页](https://bright.cn/blog/web-data/lxml-web-scraping)
+- [Python 与 cURL 集成指南](https://bright.cn/blog/how-tos/curl-with-python)
+- [使用 Python 和 Wget 下载网页](https://bright.cn/blog/how-tos/wget-with-python)
+- [用 Python 抓取网站图片 - 2024 指南](https://bright.cn/blog/how-tos/scrape-images-from-websites)
 
 ### 代理
 
-- [Python 代理服务器是什么？](https://brightdata.com/blog/proxy-101/python-proxy-server)
-- [在 Python Requests 中使用代理的指南](https://brightdata.com/blog/proxy-101/proxy-with-python-requests)
-- [如何在 AIOHTTP 中设置代理](https://brightdata.com/blog/how-tos/proxy-in-aiohttp)
+- [Python 代理服务器是什么？](https://bright.cn/blog/proxy-101/python-proxy-server)
+- [在 Python Requests 中使用代理的指南](https://bright.cn/blog/proxy-101/proxy-with-python-requests)
+- [如何在 AIOHTTP 中设置代理](https://bright.cn/blog/how-tos/proxy-in-aiohttp)
 
 ### 用户代理设置
 
-- [Python Requests 用户代理指南：设置与更改](https://brightdata.com/blog/web-data/requests-user-agent)
+- [Python Requests 用户代理指南：设置与更改](https://bright.cn/blog/web-data/requests-user-agent)
 
 ### 数据解析
 
-- [最佳 5 个 Python HTML 解析器](https://brightdata.com/blog/web-data/best-python-html-parsers)
-- [最佳 Python HTTP 客户端用于网页抓取](https://brightdata.com/blog/web-data/best-python-http-clients)
-- [如何解析 JSON 数据（Python 教程）](https://brightdata.com/blog/how-tos/parse-json-data-with-python)
-- [如何解析 XML 数据？多种方法详解](https://brightdata.com/blog/how-tos/parsing-xml-in-python)
+- [最佳 5 个 Python HTML 解析器](https://bright.cn/blog/web-data/best-python-html-parsers)
+- [最佳 Python HTTP 客户端用于网页抓取](https://bright.cn/blog/web-data/best-python-http-clients)
+- [如何解析 JSON 数据（Python 教程）](https://bright.cn/blog/how-tos/parse-json-data-with-python)
+- [如何解析 XML 数据？多种方法详解](https://bright.cn/blog/how-tos/parsing-xml-in-python)
 
 ### 抓取热门网站
 
-- [抓取 Google 搜索的终极指南 (Python)](https://brightdata.com/blog/web-data/scraping-google-with-python)
-- [如何用 Python 抓取 YouTube](https://brightdata.com/blog/how-tos/how-to-scrape-youtube-in-python)
-- [抓取 LinkedIn 数据 - 2024 指南](https://brightdata.com/blog/how-tos/linkedin-scraping-guide)
-- [如何抓取 Airbnb 数据 - 2024 指南](https://brightdata.com/blog/how-tos/how-to-scrape-airbnb-guide)
-- [抓取 Yelp 数据的分步指南 (Python)](https://brightdata.com/blog/how-tos/how-to-scrape-yelp-guide)
-- [如何抓取 Yahoo Finance 数据 - 2024 指南](https://brightdata.com/blog/how-tos/scrape-yahoo-finance-guide)
-- [抓取 Craigslist 数据的分步指南 (Python)](https://brightdata.com/blog/how-tos/how-to-scrape-craigslist-in-python)
-- [如何抓取 GitHub 仓库](https://brightdata.com/blog/how-tos/how-to-scrape-github-repositories-in-python)
-- [如何抓取 Amazon 数据 - 2024 指南](https://brightdata.com/blog/how-tos/how-to-scrape-amazon)
-- [抓取 Reddit 数据的指南 (Python)](https://brightdata.com/blog/web-data/how-to-scrape-reddit-python)
-- [抓取 Glassdoor 数据的分步指南（2024）](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
-- [如何构建 Zalando 抓取器](https://brightdata.com/blog/how-tos/how-to-build-a-zalando-scraper-with-python)
-- [用 Python 抓取 eBay 数据进行价格监控](https://brightdata.com/blog/how-tos/how-to-scrape-ebay-in-python)
+- [抓取 Google 搜索的终极指南 (Python)](https://bright.cn/blog/web-data/scraping-google-with-python)
+- [如何用 Python 抓取 YouTube](https://bright.cn/blog/how-tos/how-to-scrape-youtube-in-python)
+- [抓取 LinkedIn 数据 - 2024 指南](https://bright.cn/blog/how-tos/linkedin-scraping-guide)
+- [如何抓取 Airbnb 数据 - 2024 指南](https://bright.cn/blog/how-tos/how-to-scrape-airbnb-guide)
+- [抓取 Yelp 数据的分步指南 (Python)](https://bright.cn/blog/how-tos/how-to-scrape-yelp-guide)
+- [如何抓取 Yahoo Finance 数据 - 2024 指南](https://bright.cn/blog/how-tos/scrape-yahoo-finance-guide)
+- [抓取 Craigslist 数据的分步指南 (Python)](https://bright.cn/blog/how-tos/how-to-scrape-craigslist-in-python)
+- [如何抓取 GitHub 仓库](https://bright.cn/blog/how-tos/how-to-scrape-github-repositories-in-python)
+- [如何抓取 Amazon 数据 - 2024 指南](https://bright.cn/blog/how-tos/how-to-scrape-amazon)
+- [抓取 Reddit 数据的指南 (Python)](https://bright.cn/blog/web-data/how-to-scrape-reddit-python)
+- [抓取 Glassdoor 数据的分步指南（2024）](https://bright.cn/blog/web-data/how-to-scrape-glassdoor)
+- [如何构建 Zalando 抓取器](https://bright.cn/blog/how-tos/how-to-build-a-zalando-scraper-with-python)
+- [用 Python 抓取 eBay 数据进行价格监控](https://bright.cn/blog/how-tos/how-to-scrape-ebay-in-python)
 
 ### 绕过反爬虫
 
-- [使用 Python 绕过 CAPTCHA 技术（2024）](https://brightdata.com/blog/web-data/bypass-captchas-with-python)
-- [使用 cURL Impersonate 进行网页抓取](https://brightdata.com/blog/web-data/web-scraping-with-curl-impersonate)
-- [用 Selenium 绕过 CAPTCHA 的指南（Python）](https://brightdata.com/blog/web-data/bypass-captchas-with-selenium)
-- [通过 Playwright Stealth 避免机器人检测](https://brightdata.com/blog/how-tos/avoid-bot-detection-with-playwright-stealth)
+- [使用 Python 绕过 CAPTCHA 技术（2024）](https://bright.cn/blog/web-data/bypass-captchas-with-python)
+- [使用 cURL Impersonate 进行网页抓取](https://bright.cn/blog/web-data/web-scraping-with-curl-impersonate)
+- [用 Selenium 绕过 CAPTCHA 的指南（Python）](https://bright.cn/blog/web-data/bypass-captchas-with-selenium)
+- [通过 Playwright Stealth 避免机器人检测](https://bright.cn/blog/how-tos/avoid-bot-detection-with-playwright-stealth)
 
 ### 对比
 
-- [JavaScript 与 Python 的网页抓取对比](https://brightdata.com/blog/web-data/javascript-vs-python)
-- [Java 与 Python - 对比指南](https://brightdata.com/blog/web-data/java-vs-python)
-- [C# 与 Python 的网页抓取对比](https://brightdata.com/blog/how-tos/c-sharp-vs-python-for-web-scraping)
-- [Go 与 Python - 对比指南](https://brightdata.com/blog/web-data/go-vs-python)
-- [Python 与 C++ 网页抓取对比](https://brightdata.com/blog/web-data/python-vs-c-plus-plus-for-web-scraping)
-- [Scrapy 与 Beautiful Soup：详细对比](https://brightdata.com/blog/web-data/scrapy-vs-beautiful-soup)
-- [Scrapy 与 Selenium：如何选择？](https://brightdata.com/blog/web-data/scrapy-vs-selenium)
-- [Scrapy 与 Puppeteer 网页抓取对比](https://brightdata.com/blog/web-data/scrapy-vs-puppeteer)
+- [JavaScript 与 Python 的网页抓取对比](https://bright.cn/blog/web-data/javascript-vs-python)
+- [Java 与 Python - 对比指南](https://bright.cn/blog/web-data/java-vs-python)
+- [C# 与 Python 的网页抓取对比](https://bright.cn/blog/how-tos/c-sharp-vs-python-for-web-scraping)
+- [Go 与 Python - 对比指南](https://bright.cn/blog/web-data/go-vs-python)
+- [Python 与 C++ 网页抓取对比](https://bright.cn/blog/web-data/python-vs-c-plus-plus-for-web-scraping)
+- [Scrapy 与 Beautiful Soup：详细对比](https://bright.cn/blog/web-data/scrapy-vs-beautiful-soup)
+- [Scrapy 与 Selenium：如何选择？](https://bright.cn/blog/web-data/scrapy-vs-selenium)
+- [Scrapy 与 Puppeteer 网页抓取对比](https://bright.cn/blog/web-data/scrapy-vs-puppeteer)
